@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aincatoni currently work as a web developer (css mostly)
-- 👀 I’m interested in music, web development and graphic design
-- 🌱 I’m currently learning the fundamentals of JavaScript @freecodecamp and @udemy
-- 📫 send me a mail on hello@aincatoni.com or dm on instagram @aincatoni
+- 👋 Hi, I’m @aincatoni. I currently work as a Web Developer at pc Factory.  
+- 🌱 I’m a Designer currently studying Software Engineering / Computer Science at IPSS.  
+- ❤️ I’m interested in music, web development, and design.
 
 <!---
 aincatoni/aincatoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
